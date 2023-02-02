@@ -13,7 +13,7 @@ DVR Tuner Server for Japanese TV which designed for the "Air" (in development co
 
 ## Docker
 
-[![dockeri.co](https://dockeri.co/image/chinachu/mirakurun)][docker-url]
+[![dockeri.co](https://dockeri.co/image/chinachu/mirakurun)](https://hub.docker.com/r/chinachu/mirakurun)
 
 see: available [Tags](https://hub.docker.com/r/chinachu/mirakurun/tags) (Docker Hub)
 
